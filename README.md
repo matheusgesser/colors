@@ -2,4 +2,7 @@
 
 Mini-projeto JavaScript
 
-Preview
+Preview Simple
+https://codepen.io/matheusgesser/pen/oNyKxBR
+
+Preview Hex
