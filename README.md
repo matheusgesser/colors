@@ -11,11 +11,13 @@
 
 > Color generator, select random color in array or generate a random hex code.
 
-**Try it: <a href="https://codepen.io/matheusgesser/pen/oNyKxBR
-" target='_blank'>codepen.io/matheusgesser/pen/oNyKxBR</a> (Simple)**
+## 🔴 **Live Version**
 
-**Try it: <a href="https://codepen.io/matheusgesser/pen/QWxeNpg
-" target='_blank'>codepen.io/matheusgesser/pen/QWxeNpg</a> (Hex)**
+<a href="https://codepen.io/matheusgesser/pen/oNyKxBR
+" target='_blank'>codepen.io/matheusgesser/pen/oNyKxBR</a> (Simple)
+
+<a href="https://codepen.io/matheusgesser/pen/QWxeNpg
+" target='_blank'>codepen.io/matheusgesser/pen/QWxeNpg</a> (Hex)
 
 ## 💻 **Technologies**
 
